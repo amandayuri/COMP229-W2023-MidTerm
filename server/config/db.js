@@ -8,5 +8,4 @@ module.exports = {
   //local MongoDB deployment ->
   //"URI": "mongodb://localhost/books229"
   "URI": "mongodb+srv://comp229-lab:xpftrQAJi3SCZNrA@mongodbserver.ghhuqpr.mongodb.net/bookstore?retryWrites=true&w=majority"
-
 };
